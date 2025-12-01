@@ -1,0 +1,241 @@
+[
+    {
+        "id": "1",
+        "title": "Halo Infinite",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Shooter",
+            "Action"
+        ],
+        "description": "The legendary Halo series returns with the most expansive Master Chief campaign yet and a ground-breaking free-to-play multiplayer experience.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2021-12-08"
+    },
+    {
+        "id": "2",
+        "title": "Forza Horizon 5",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Racing",
+            "Simulation"
+        ],
+        "description": "Blast off to the visually stunning, open world of Mexico in the world’s greatest cars. Take on a campaign with hundreds of challenges.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2021-11-09"
+    },
+    {
+        "id": "3",
+        "title": "Starfield",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "RPG",
+            "Space"
+        ],
+        "description": "In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2023-09-06"
+    },
+    {
+        "id": "4",
+        "title": "Sea of Thieves",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Adventure",
+            "Action"
+        ],
+        "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting – everything you need to live the pirate life.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2018-03-20"
+    },
+    {
+        "id": "5",
+        "title": "Hi-Fi RUSH",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Action",
+            "Rhythm"
+        ],
+        "description": "Feel the beat as wannabe rockstar Chai and his ragtag team of allies rebel against an evil megacorp with raucous rhythm combat!",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2023-01-25"
+    },
+    {
+        "id": "6",
+        "title": "Gears 5",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Shooter",
+            "Action"
+        ],
+        "description": "From one of gaming’s most acclaimed sagas, Gears is bigger than ever, with five thrilling modes and the deepest campaign yet.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2019-09-10"
+    },
+    {
+        "id": "7",
+        "title": "Ori and the Will of the Wisps",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Platformer",
+            "Adventure"
+        ],
+        "description": "Embark on an all-new adventure in a vast world filled with new friends and foes that come to life in stunning, hand-painted artwork.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2020-03-11"
+    },
+    {
+        "id": "8",
+        "title": "Hollow Knight",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Metroidvania",
+            "Action"
+        ],
+        "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2018-09-25"
+    },
+    {
+        "id": "9",
+        "title": "Doom Eternal",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Shooter",
+            "Action"
+        ],
+        "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2020-03-20"
+    },
+    {
+        "id": "10",
+        "title": "Psychonauts 2",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Platformer",
+            "Adventure"
+        ],
+        "description": "Razputin “Raz” Aquato, trained acrobat and powerful young psychic, has realized his lifelong dream of joining the international psychic espionage organization known as the Psychonauts!",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2021-08-25"
+    },
+    {
+        "id": "11",
+        "title": "Dead Cells",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Roguelike",
+            "Action"
+        ],
+        "description": "Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2018-08-07"
+    },
+    {
+        "id": "12",
+        "title": "Mass Effect Legendary Edition",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "RPG",
+            "Shooter"
+        ],
+        "description": "One person is all that stands between humanity and the greatest threat it’s ever faced. Relive the legend of Commander Shepard in the highly acclaimed Mass Effect trilogy.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2021-05-14"
+    },
+    {
+        "id": "13",
+        "title": "Minecraft",
+        "platform": [
+            "Console",
+            "PC"
+        ],
+        "genres": [
+            "Simulation",
+            "Sandbox"
+        ],
+        "description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2011-11-18"
+    },
+    {
+        "id": "14",
+        "title": "Control",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "After a secretive agency in New York is invaded by an otherworldly threat, you become the new Director struggling to regain Control.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2019-08-27"
+    },
+    {
+        "id": "15",
+        "title": "Grounded",
+        "platform": [
+            "Console",
+            "PC",
+            "Cloud"
+        ],
+        "genres": [
+            "Survival",
+            "Adventure"
+        ],
+        "description": "The world is a vast, beautiful and dangerous place – especially when you have been shrunk to the size of an ant. Explore, build and survive together in this first person, multiplayer, survival-adventure.",
+        "coverUrl": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+        "releaseDate": "2022-09-27"
+    }
+]
