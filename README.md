@@ -59,23 +59,20 @@ O frontend será iniciado em `http://localhost:5173`
 
 ```bash
 mv docker-compose.example.yml docker-compose.yml
-mv backend/.env.example backend/.env
 ```
 
-2. **(Opcional) Edite o arquivo `backend/.env`** conforme necessário para ajustar configurações como porta, região, etc.
-
-### 3. Suba os containers
+### 2. Suba os containers
 
 Na raiz do projeto, execute:
 
 ```bash
-docker compose up --build
+docker compose up -d --build
 ```
 
 - O **backend** ficará disponível em `http://localhost:4000`
 - O **frontend** ficará disponível em `http://localhost:5173`
 
-### 4. Parar os containers
+### 3. Parar os containers
 
 ```bash
 docker compose down
