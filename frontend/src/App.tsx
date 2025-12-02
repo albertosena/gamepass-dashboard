@@ -7,7 +7,7 @@ import { GameService } from './services/GameService';
 import { MetacriticService } from './services/MetacriticService';
 import type { GameWithScore, FilterState, CardSize, PaginationState } from './types';
 
-const ITEMS_PER_PAGE = 24;
+const ITEMS_PER_PAGE = 32;
 
 function App() {
   const [games, setGames] = useState<GameWithScore[]>([]);
